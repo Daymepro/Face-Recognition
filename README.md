@@ -51,9 +51,3 @@ git clone https://github.com/mesutpiskin/face-detection-and-recognition.git
 - Update the **./Config.cs** file to change configuration settings.
 - Build and run project with Visual Studio (Suggested 2017+ version)
 
-
-### Video
-
-<a href="https://youtu.be/0wxWdCc_TFo">
-<img width="500" src="./static/video.png"/>
-</a>
